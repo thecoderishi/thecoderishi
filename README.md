@@ -29,13 +29,13 @@
       <code
         ><img
           height="30"
-          title="reactJS"
+          title="ReactJS"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
       /></code>
       <code
         ><img
           height="30"
-          title="nodeJS"
+          title="NodeJS"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
       /></code>
       <code
@@ -47,7 +47,7 @@
       <code
         ><img
           height="30"
-          title="django"
+          title="Python"
           src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg"
       /></code>
       <code
@@ -55,6 +55,12 @@
           height="30"
           title="django"
           src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-plain.svg"
+      /></code>
+      <code
+        ><img
+          height="30"
+          title="VS-Code"
+          src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/visualstudio/visualstudio-plain.svg"
       /></code>
     </p>
     <!--Github Stats-->
