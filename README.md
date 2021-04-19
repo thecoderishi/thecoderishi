@@ -14,7 +14,7 @@
         src="https://visitor-badge.glitch.me/badge?page_id=thecoderishi.thecoderishi"
       />
       <img
-        src="https://img.shields.io/github/followers/thecoderishi?style=social"
+        src="https://img.shields.io/github/followers/thecoderishi?style=plastic"
       />
       <img
         src="https://badges.pufler.dev/repos/thecoderishi"
