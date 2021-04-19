@@ -20,48 +20,37 @@
     <!--Language-->
     <h2 align="center">Languages and Tools.</h2>
     <p align="center">
-      <code
-        ><img
+     <p align="center">
+         <img
           height="30"
           title="JavaScript"
           src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="ReactJS"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="NodeJS"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="BootStrap"
           src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="Python"
           src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-original.svg"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="django"
           src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/django/django-plain.svg"
-      /></code>
-      <code
-        ><img
+      /><img
           height="30"
           title="VS-Code"
           src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/visualstudio/visualstudio-plain.svg"
-      /></code>
+      />
+    </p>
     </p>
     <!--Github Stats-->
     <h2 align="center">My Github Stats</h2>
