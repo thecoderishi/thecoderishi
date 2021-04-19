@@ -79,30 +79,26 @@
     <p align="center">
       <a href="https://www.linkedin.com/in/thecoderishi" title="LinkedIn">
         <img
-          height="40px"
-          width="40px"
+          height="30px"
           src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618819777~hmac=765db6f06cc469ff05a7aedb44fc7e8a"
         />
       </a>
       <a href="https://twitter.com/versionzer0" title="Twitter">
         <img
           margin-right="5px"
-          height="40px"
-          width="40px"
+          height="30px"
           src="https://www.flaticon.com/svg/vstatic/svg/1409/1409937.svg?token=exp=1618819750~hmac=353dd257b39ed87aaf1835fca895488d"
         />
       </a>
       <a href="https://twitter.com/versionzer0" title="Instagram">
         <img
-          height="40px"
-          width="40px"
+          height="30px"
           src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1618819621~hmac=c68d21502e5d81c3a9d497d7af2944d6"
         />
       </a>
       <a href="mailto:rishirverma512@gmail.com" title="Gmail">
         <img
-          height="40px"
-          width="40px"
+          height="30px"
           src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1618820086~hmac=f2ac152dc52bf06889b4f0200f15791f"
         />
       </a>
