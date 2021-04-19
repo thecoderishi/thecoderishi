@@ -64,14 +64,14 @@
       <a href="https://github.com/thecoderishi/github-readme-stats">
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=thecoderishi&show_icons=true&include_all_commits=true&theme=dark&count_private=true&custom_title=thecoderishi's Github Stats&include_all_commits=True"
+          src="https://github-readme-stats.vercel.app/api?username=thecoderishi&include_all_commits=true&theme=dark&count_private=true&custom_title=thecoderishi's Github Stats"
           alt="Anand's github stats"
         />
       </a>
       <a href="https://github.com/thecoderishi/github-readme-stats">
         <img
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderishi&layout=compact&theme=radical&"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoderishi&layout=compact&theme=radical"
         />
       </a>
     </p>
