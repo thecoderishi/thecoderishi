@@ -16,6 +16,12 @@
       <img
         src="https://img.shields.io/github/followers/thecoderishi?style=social"
       />
+      <img
+        src="https://badges.pufler.dev/repos/thecoderishi"
+      />
+      <img
+        src="https://badges.pufler.dev/commits/monthly/thecoderishi"
+      />
     </p>
     <!--Language-->
     <h2 align="center">Languages and Tools.</h2>
