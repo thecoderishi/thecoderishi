@@ -65,7 +65,6 @@
         <img
           align="center"
           src="https://github-readme-stats.vercel.app/api?username=thecoderishi&include_all_commits=true&theme=dark&count_private=true&custom_title=thecoderishi's Github Stats"
-          alt="Rishi's github stats"
         />
       </a>
       <a href="https://github.com/thecoderishi/github-readme-stats">
